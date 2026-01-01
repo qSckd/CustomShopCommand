@@ -1,0 +1,15 @@
+name: CustomShopCommand
+main: dev.customshop.CustomShopCommand
+version: 1.0.0
+api-version: 1.21
+author: Voltrex
+commands:
+  shop:
+    description: Opens custom shop menus
+    usage: /shop <subcommand>
+    permission: customshopcommand.use
+    aliases: [shops]
+permissions:
+  customshopcommand.use:
+    description: Allows using /shop command
+    default: true
