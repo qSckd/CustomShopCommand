@@ -3,6 +3,31 @@
 This plugin exists and that’s about the nicest thing that can be said about it LOL
 At least this one works.
 
+## The truth..
+The compiled JAR contained **a random obfuscated folder**, such as:
+
+```
+l/M/x/__v3_
+```
+Which ended up being a rat.
+
+Ive looked into all of the compiled versions that Voltrex uploaded into Wisp Network and CrystalCore and only HIS plugins have a rat
+https://cdn.discordapp.com/attachments/1455992327620268219/1456090918305398854/Desktop_2025.12.31_-_20.03.46.01.mp4?ex=695719d7&is=6955c857&hm=0d4ad569bc621c8409382385595adfcd80a2563f2154f7421cad0a51bc2b88f2&
+
+"It wouldnt affect a .jarold file"
+https://youtu.be/x_78RCewNC0
+
+Here proof of him folding when i asked to get on call, he said "send it here" and then wont open what i sent.
+https://youtu.be/1DbAeS2kU-w
+
+Talking bout some "i deleted the source"
+https://media.discordapp.net/attachments/1453907518874058893/1456199630974095555/image.png?ex=69577f16&is=69562d96&hm=3cede5ad5359b6123900c1a2b2e3f4bebb123748c5f45660e48546520d8a1d28&=&format=webp&quality=lossless
+
+But then.. we got into a vc showing cracked survival with the plugin and guess what? you modified the plugin 5 hours ago
+https://media.discordapp.net/attachments/1453907518874058893/1456199956430983281/image.png?ex=69577f64&is=69562de4&hm=9066bc4957af4a44c3f9d5c5795c3081004061eb918b08e26b96ef794573c2d9&=&format=webp&quality=lossless
+https://media.discordapp.net/attachments/1455992327620268219/1456095930788089977/image.png?ex=69571e82&is=6955cd02&hm=c99f26089e6e23dc93993fe4d4c6002adbefd7642123f16da506938eeb407d39&=&format=webp&quality=lossless
+So you didnt actually lose the source did you?
+
 ---
 
 ## Why am i leaking this?
@@ -16,36 +41,18 @@ So yeah why not just let him look like a clown by showing everyone how he uses a
 
 ---
 
-## Why this plugin is cheeks
-The compiled JAR contained **a random obfuscated folder**, such as:
-
-```
-l/M/x/__v3_
-```
-It does..
-* **nothing**
-* Provides **zero protection**
-* Break compilation if copied incorrectly
-* Look like malware to anyone with a brain
-
-ts is crazy because on all of Voltrex´s skidded plugins, this obfuscation is present.
-
-This plugin is a perfect example of what happens when AI generates code
-
-AI is a **tool**, not a developer.
-This code proves it.
-
----
-
 ## Current ver
 
 * Compiles
-* Removes fake obfuscation
+* Removes backdoor
 * Provides full source
 
 Is it good?
 
 Yes, Note that i only fixed this so people could have the full source.
+
+AI is a **tool**, not a developer.
+This code proves it.
 
 ---
 
